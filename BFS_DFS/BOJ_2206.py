@@ -8,7 +8,7 @@ for _ in range(N):
 
 q = deque()
 q.append((0, 0, True, 1))
-visited = [[[False for _ in range(M)] for _ in range(N)] for _ in range(2)]  # visited의 역할
+visited = [[[False for _ in range(M)] for _ in range(N)] for _ in range(2)]  # 벽을 부순상태까지 저장
 answer = -1
 while q:
     y, x, can_break, count = q.popleft()

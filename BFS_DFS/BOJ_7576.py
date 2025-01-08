@@ -1,6 +1,7 @@
 import sys
 from collections import deque
 
+# 하루 경과 구현 (인접한 토마토 숙성시키고 해당 토마토 리스트 반환)
 def day_one(graph, q):
     dirs = [[1, 0], [-1, 0], [0, 1], [0, -1]]
     new_q = deque()
