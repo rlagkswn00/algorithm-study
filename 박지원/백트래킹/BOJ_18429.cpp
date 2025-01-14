@@ -3,7 +3,7 @@ using namespace std;
 
 int N, K;
 int arr[9];
-int result = 0;
+int result = `0;
 void cal2(vector<int> vec)
 {
     int hp = 500;
