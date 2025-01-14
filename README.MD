@@ -118,11 +118,11 @@
 	 <!-- 2주차 문제 -->
     <tr style="text-align: center">
         <td rowspan="5"><b>2주차</b></br>백트래킹</td>
-        <td>BOJ</td><td>6603</td><td>꽃길</td><td>실버2</td>
+        <td>BOJ</td><td>14620</td><td>꽃길</td><td>실버2</td>
         <td><a href="https://www.acmicpc.net/problem/14620">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>7562</td><td>근손실</td><td>실버3</td>
+        <td>BOJ</td><td>18429</td><td>근손실</td><td>실버3</td>
         <td><a href="https://www.acmicpc.net/problem/18429">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
@@ -134,7 +134,7 @@
         <td><a href="https://www.acmicpc.net/problem/20208">바로가기</a></td>
     </tr>
     <tr style="text-align: center">
-        <td>BOJ</td><td>16933</td><td>빠른 무작위 메시지 전달</td><td>골드4</td>
+        <td>BOJ</td><td>25825</td><td>빠른 무작위 메시지 전달</td><td>골드4</td>
         <td><a href="https://www.acmicpc.net/problem/25825">바로가기</a></td>
     </tr>
 </table>
