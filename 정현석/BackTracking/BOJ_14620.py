@@ -39,7 +39,7 @@ def back_tracking(graph, visited, pos, cost, depth):
 N = int(input())
 graph = list()
 visited = [[False for _ in range(N)] for _ in range(N)]
-answer = 999
+answer = 999999999
 for _ in range(N):
     graph.append(list(map(int, input().split())))
 
