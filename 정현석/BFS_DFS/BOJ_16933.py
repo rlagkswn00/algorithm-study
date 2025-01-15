@@ -1,3 +1,8 @@
+"""
+똑왜틀 ;;
+https://kjimin0619.tistory.com/88
+"""
+
 from collections import deque
 import sys
 
