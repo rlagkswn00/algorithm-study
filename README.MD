@@ -137,4 +137,26 @@
         <td>BOJ</td><td>25825</td><td>빠른 무작위 메시지 전달</td><td>골드4</td>
         <td><a href="https://www.acmicpc.net/problem/25825">바로가기</a></td>
     </tr>
+	 <!-- 3주차 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="5"><b>3주차</b></br>구현</td>
+        <td>BOJ</td><td>14503</td><td>로봇 청소기</td><td>골드5</td>
+        <td><a href="https://www.acmicpc.net/problem/14503">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>3190</td><td>뱀</td><td>골드4</td>
+        <td><a href="https://www.acmicpc.net/problem/3190">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>17478</td><td>재귀함수가 뭔가요?</td><td>실버5</td>
+        <td><a href="https://www.acmicpc.net/problem/17478">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>2638</td><td>치즈</td><td>골드3</td>
+        <td><a href="https://www.acmicpc.net/problem/2638">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>BOJ</td><td>1213</td><td>팰린드롬 만들기</td><td>실버3</td>
+        <td><a href="https://www.acmicpc.net/problem/1213">바로가기</a></td>
+    </tr>
 </table>
