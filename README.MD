@@ -159,4 +159,26 @@
         <td>BOJ</td><td>1213</td><td>팰린드롬 만들기</td><td>실버3</td>
         <td><a href="https://www.acmicpc.net/problem/1213">바로가기</a></td>
     </tr>
+    <!-- 4주차 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="5"><b>4주차</b></br>모의 코딩테스트</td>
+        <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>두 큐 합 같게 만들기</td><td>Lv. 2</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>성격 유형 검사하기</td><td>Lv. 1</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>등산코스 정하기</td><td>Lv. 3</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118669">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>코딩 테스트 공부</td><td>Lv. 3</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118668">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>행렬과 연산</td><td>Lv. 4</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118670">바로가기</a></td>
+    </tr>
 </table>
