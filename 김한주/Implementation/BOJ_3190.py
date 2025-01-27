@@ -42,12 +42,12 @@ while True:
     headX, headY = nx,ny
     board[headX][headY] = 2
     q.append((nx,ny))
-    time += 1
 
     if time in ops.keys():
         if ops[time] == "D":  # 오른쪽 회전
             dIndex = (dIndex + 1) % 4
         elif ops[time] == "L":  # 왼쪽 회전
             dIndex = (dIndex - 1) % 4
+    time += 1
 
 print(time)
