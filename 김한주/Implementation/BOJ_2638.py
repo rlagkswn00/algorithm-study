@@ -64,8 +64,6 @@ while chzList:
     while chz:
         cx,cy = chz.popleft()
         count = bfs(cx,cy)
-        if time == 10:
-            exit(0)
         if count >= 2: #녹음
             deleteQ.append((cx,cy))
     
