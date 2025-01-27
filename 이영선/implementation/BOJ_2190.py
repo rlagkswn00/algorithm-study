@@ -1,4 +1,4 @@
-# 구현 - 2190번 - 뱀
+# 구현 - 3190번 - 뱀
 import sys
 
 input = sys.stdin.readline
