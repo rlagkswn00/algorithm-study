@@ -181,4 +181,30 @@
         <td>PGS</td><td>2022 KAKAO TECH INTERNSHIP</td><td>행렬과 연산</td><td>Lv. 4</td>
         <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/118670">바로가기</a></td>
     </tr>
+    <!-- 5주차 문제 -->
+    <tr style="text-align: center">
+        <td rowspan="6"><b>5주차</b></br>모의 코딩테스트</td>
+        <td>PGS</td><td>PCCP 모의고사 2</td><td>실습용 로봇</td><td>x</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/15009/lessons/121687">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>PCCP 모의고사 2</td><td>신입사원 교육</td><td>x</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/15009/lessons/121688">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>PCCP 모의고사 2</td><td>카페 확장</td><td>x</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/15009/lessons/121689">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>PCCP 모의고사 2</td><td>보물 지도</td><td>x</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/15009/lessons/121690">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2021 KAKAO BLIND RECRUITMENT</td><td>카드 짝 맞추기</td><td>Lv. 3</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/72415">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>PGS</td><td>2024 KAKAO WINTER INTERNSHIP</td><td>주사위 고르기</td><td>Lv. 3</td>
+        <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">바로가기</a></td>
+    </tr>
 </table>
